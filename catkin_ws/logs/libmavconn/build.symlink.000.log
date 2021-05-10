@@ -1,0 +1,5 @@
+Symlinking /home/boubisto/catkin_ws/devel/lib/libmavconn.so
+Symlinking /home/boubisto/catkin_ws/devel/lib/pkgconfig/libmavconn.pc
+Symlinking /home/boubisto/catkin_ws/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake
+Symlinking /home/boubisto/catkin_ws/devel/share/libmavconn/cmake/libmavconn-extras.cmake
+Symlinking /home/boubisto/catkin_ws/devel/share/libmavconn/cmake/libmavconnConfig.cmake
